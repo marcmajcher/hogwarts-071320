@@ -6,7 +6,7 @@ import HogList from './HogList';
 
 class App extends Component {
   state = {
-    showGreased: true,
+    showGreased: false,
     sortBy: 'none',
   };
 
